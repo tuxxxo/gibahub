@@ -1,6 +1,10 @@
 :root{
     --cor-de-fundo:#723E4E;
     --cor-texto:#F4B036;
+    --botao-ativo:#EF3353;
+    --botao-inativo:#B03851;
+    --texto-simples:#FFFFFF;
+    
 }
 
 .body{
