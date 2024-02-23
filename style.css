@@ -8,7 +8,8 @@
 }
 
 .botao{
-    color: var(--botao-inativo);
+    color: var(--texto-simples);
+    background-color: var(--botao-inativo);
 }
 
 .titulo-principal{
