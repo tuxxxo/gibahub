@@ -4,11 +4,11 @@
     --botao-ativo:#EF3353;
     --botao-inativo:#B03851;
     --texto-simples:#FFFFFF;
-    
+
 }
 
-.body{
-   color: var(--cor-de-fundo);
+.botao{
+    color: var(--botao-inativo);
 }
 
 .titulo-principal{
