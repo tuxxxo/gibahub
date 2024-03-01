@@ -21,6 +21,7 @@ body{
 }
 
 .titulo-principal{
+
     color: var(--cor-texto);
     font-family: "Shadows Into Light", cursive;
   font-weight: 400;
@@ -28,10 +29,12 @@ body{
   text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
-    #231557 0%,
-    #44107a 29%,
-    #ff1361 67%,
-    #fff800 100%
+    #ff595e 0%,
+    #ffca3a 20%,
+    #8ac926 40%,
+    #1982c4 60%,
+    #6a4c93 80%,
+    #ff595e 100%,
   );
   background-size: auto auto;
   background-clip: border-box;
