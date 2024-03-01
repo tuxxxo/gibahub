@@ -7,6 +7,8 @@
     --botao-ativo:#EF3353;
     --botao-inativo:#B03851;
     --texto-simples:#FFFFFF;
+    --fonte: url('https://fonts.googleapis.com/css2?family=Namdhinggo:wght@400;500;600;700;800&display=swap');
+
 
 }
 body{
@@ -20,6 +22,6 @@ body{
 }
 
 .titulo-principal{
-    font-family:fantasy;
     color: var(--cor-texto);
+    font-family: var(--fonte);
 }
