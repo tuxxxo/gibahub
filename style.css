@@ -22,4 +22,5 @@ body{
 
 .titulo-principal{
     color: var(--cor-texto);
+    font-family: 'Namdhinngo';
 }
