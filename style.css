@@ -18,6 +18,9 @@ body{
     color: var(--texto-simples);
     background-color: var(--botao-inativo);
     border-color: var(--botao-ativo);
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .titulo-principal{
