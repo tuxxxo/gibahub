@@ -21,7 +21,8 @@ body{
     font-family: "Shadows Into Light", cursive;
     font-weight: 400;
     font-style: normal;
-    size: 100px;
+    width: 100px;
+    height: 80px;
 }
 
 .titulo-principal{
