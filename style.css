@@ -54,10 +54,12 @@ body{
   background-image: linear-gradient(
     -225deg,
     #ff595e 0%,
-    #ffca3a 29%,
-    #ff1361 67%,
-    #fff800 100%
-  );
+    #ffca3a 20%,
+    #8ac926 40%,
+    #1982c4 60%,
+    #6a4c93 80%,
+    #ff595e 100%,
+
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
