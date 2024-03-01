@@ -24,7 +24,7 @@ body{
     width: 120px;
     height: 80px;
     align-self: auto;
-    
+    border-radius: 30px;
 }
 
 .titulo-principal{
