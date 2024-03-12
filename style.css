@@ -46,11 +46,11 @@ body{
   }
 
   .botao:first-child{
-    border-radius: 40px 0 0 0;
+    border-radius: 40px 0px 0px 0px;
   }
 
   .botao:last-child{
-    border-radius: 0 40px 0 0;
+    border-radius: 0px 40px 0px 0px;
   }
   
 }
