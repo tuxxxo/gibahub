@@ -32,6 +32,14 @@ body{
     border-top: none;
 }
 
+.botao:first-child{
+  border-radius: 40px 40px 0px 0px;
+}
+
+.botoes{
+ display: block;
+}
+
 .titulo-principal{
 
     font-family: "Shadows Into Light", cursive;
