@@ -41,7 +41,7 @@ body{
 }
 
 .ativo{
-  background-color: red;
+  background-color: var(--botao-ativo);
   border-bottom: 4px solid var(--cor-texto);
 }
 
